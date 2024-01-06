@@ -38,9 +38,11 @@ My designer's (aircraft) experience give me obvious benefits in depth and struct
 
 <p>Here my github languages-distribution statistics, and despite of the fact I mainly use Gitlab, I evaluate this distribution as something more or less right</p>
 
+<div align="center">
+
 ![my statistics](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Kalinin-jr&theme=github) 
 
-                 
+</div>
           
           
 
