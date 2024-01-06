@@ -12,10 +12,8 @@
 </div>
 
 <div>
-Now, i'am under the guidance of Sberbank's educational project (School-21). This is the good in'depth education.<br>
-It starts with diving into C-language and continues to climbing up to cyber-security and so on.
-I has successfully passed the next branches:<br>
-
+<p>Now, i'am under the guidance of Sberbank's educational project (School-21). This is the good in'depth education.<br>
+It starts with diving into C-language and continues to climbing up to cyber-security and so on.</p>
 <div id="1" align="center">
 <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
@@ -24,6 +22,7 @@ I has successfully passed the next branches:<br>
 <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
+<p>I has successfully passed the next branches:</p>
 
 - linux and related technologies, (and yes, i'm still on *Bullseye*, because *Bookwarm* is not run-in enough).
 - databases, from ANSI-sql up to big retail-analytics projects in postgres.
@@ -31,12 +30,16 @@ I has successfully passed the next branches:<br>
 - C++ language, from calculator up to algorithms and parallel programming.
 - python, from flask up to self-written C-packages.<br>
 
-- I am well acquainted with modern technologies, such as Docker, CI-CD, git, testing libs, debugging and
+I am well acquainted with modern technologies, such as Docker, CI-CD, git, testing libs, debugging and
 other necessary development infrastructure.<br>
-- Also i am pretty good in writing/reading English.<br>
-- My designer's (aircraft) experience give me obvious benefits in depth and structured learning of programming languages.
+Also i am pretty good in writing/reading English.<br>
+My designer's (aircraft) experience give me obvious benefits in depth and structured learning of programming languages.
 </div>
 
+<p>Here my github languages-distribution statistics, and despite of the fact I mainly use Gitlab, I evaluate this distribution as something more or less right</p>
+<div id="2" align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Kalinin-jr&theme=default) 
+</div>
 
                  
           
