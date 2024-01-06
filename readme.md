@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href='https://t.me/imba_pro'><img src="img/tg-icon.png"></a>
-<a href='https://vk.com/mrdisput'><img src="img/linkedin-icon.png"></a>
+<a href='https://www.linkedin.com/in/alex-kalinin-jr/'><img src="img/linkedin-icon.png"></a>
 </div>
 
 <div>
