@@ -3,25 +3,23 @@
 <h3>I am junior C++/python developer with considerable tech-stack and aircraft-designing background</h3>
 </div>
 
-<div>
-<a href='https://t.me/imba_pro'>Tg profile</a>
-</div>
 
-<div>
-<a href='https://vk.com/mrdisput'>LinkedIn profile</a>
+<div align="center">
+<a href='https://t.me/imba_pro'><img src="img/tg-icon.png"></a>
+<a href='https://vk.com/mrdisput'><img src="img/linkedin-icon.png"></a>
 </div>
 
 <div>
 <p>Now, i'am under the guidance of Sberbank's educational project (School-21). This is the good in'depth education.<br>
 It starts with diving into C-language and continues to climbing up to cyber-security and so on.</p>
 <div id="1" align="center">
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+<img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
 </div>
 <p>I has successfully passed the next branches:</p>
