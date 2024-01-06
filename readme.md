@@ -21,6 +21,8 @@ It starts with diving into C-language and continues to climbing up to cyber-secu
 <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
 </div>
 <p>I has successfully passed the next branches:</p>
 
@@ -37,9 +39,8 @@ My designer's (aircraft) experience give me obvious benefits in depth and struct
 </div>
 
 <p>Here my github languages-distribution statistics, and despite of the fact I mainly use Gitlab, I evaluate this distribution as something more or less right</p>
-<div id="2" align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Kalinin-jr&theme=default) 
-</div>
+
+![my statistics](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Kalinin-jr&theme=github) 
 
                  
           
