@@ -10,8 +10,6 @@
 </div>
 
 <div>
-<p>Now, i'am under the guidance of Sberbank's educational project (School-21). This is the good in'depth education.<br>
-It starts with diving into C-language and continues to climbing up to cyber-security and so on.</p>
 <div id="1" align="center">
 <img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
