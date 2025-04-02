@@ -19,19 +19,7 @@
 <img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width=48 heigth=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
-</div>
-<p>I has successfully passed the next branches:</p>
-
-- linux and related technologies, (and yes, i'm still on *Bullseye*, because *Bookwarm* is not run-in enough).
-- databases, from ANSI-sql up to big retail-analytics projects in postgres.
-- C language, from self-made cat and grep up to C-written 3D-Viewer.
-- C++ language, from calculator up to algorithms and parallel programming.
-- python, from flask up to self-written C-packages.<br>
-
-I am well acquainted with modern technologies, such as Docker, CI-CD, git, testing libs, debugging and
-other necessary development infrastructure.<br>
-Also i am pretty good in writing/reading English.<br>
-My designer's (aircraft) experience give me obvious benefits in depth and structured learning of programming languages.
+</div>.
 </div>
 
 <p>Here my github languages-distribution statistics, and despite of the fact I mainly use Gitlab, I evaluate this distribution as something more or less right</p>
