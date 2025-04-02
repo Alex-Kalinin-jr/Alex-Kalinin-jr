@@ -1,6 +1,5 @@
 <div id="1" align="center">
-<h2>Welcome, I'm Alex Kalinin</h2>
-<h3>I am junior C++/python developer with considerable tech-stack and aircraft-designing background</h3>
+<h2>Welcome</h2>
 </div>
 
 
